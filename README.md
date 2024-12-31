@@ -1,3 +1,3 @@
 # Codecademy's Learn React Challenge Project: Appointment Planner
 
-The following repository showcases a simple appointment planner using basic React functions. Nothing flashy, just foundational theories.
+This repository features a basic appointment planner built with React. It focuses on foundational concepts and practical implementation.
